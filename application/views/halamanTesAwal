@@ -1,0 +1,33 @@
+<?php $this->load->view('headerNext')?>
+	<div class="kotakPraktikum">
+		<p><strong>Pemodelan Basis Data - Modul 3</strong>
+		<table style="width: 100%">
+			<tr>
+				<td>
+					<div class="d-flex justify-content-start">
+						<h3>Tes Awal</h3>
+					</div>
+				</td>
+				<td>
+					<div class="d-flex justify-content-end">
+						<p>00 : 09 : 45
+					</div>
+				</td>
+			</tr>
+		</table>
+		<p class="aturanJurnal">Apa itu DBMS</p>
+		<div class="btn-group btn-group-toggle" data-toggle="buttons">
+		  <label class="btn btn-secondary active">
+		    <input type="radio" name="options" id="option1" autocomplete="off" checked> Active
+		  </label>
+		  <label class="btn btn-secondary">
+		    <input type="radio" name="options" id="option2" autocomplete="off"> Radio
+		  </label>
+		  <label class="btn btn-secondary">
+		    <input type="radio" name="options" id="option3" autocomplete="off"> Radio
+		  </label>
+		</div>
+	</div>
+</body>
+
+</html>
