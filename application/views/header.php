@@ -36,7 +36,7 @@ $(document).ready(function(){
 });
 </script>
 <body>
-	<nav class="navbar navbar-expand-sm navbar-light fixed-top" style="background-color: #ffffff">
+	<nav class="navbar navbar-expand-sm navbar-light fixed-top atas" style="background-color: #ffffff">
 	<!-- Links -->
 	  <ul class="navbar-nav ml-auto">
 	    <li class="nav-item">

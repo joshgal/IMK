@@ -21,4 +21,15 @@ class praktikanController extends CI_Controller {
     $this->load->view('halamanTesAwal'); 
   }
 
+  public function halamanJurnal2()
+  {
+    $this->load->view('halamanJurnal'); 
+  }
+
+  public function halamanJurnal3()
+  {
+    $this->load->view('halamanTesAkhir'); 
+  }
+
+
 }

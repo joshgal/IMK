@@ -57,32 +57,15 @@
 
 
 		<div id="divChart">
-			<div style="width: 700px;height: 400px">
+			<div style="width: 900px;height: 500px; margin-left: 130px;margin-bottom: 30px;margin-top: 30px">
 				<canvas id="myChart" style=""></canvas>
 			</div>
 
 
 		</div>
-		<hr>
 		<h2 id="upload">Upload Jawaban</h2>
-		<div class="card" style="margin-bottom: 50px;">
-
+		<div class="card" style="margin-bottom: 50px; padding:75px">	
 			<img class="card-img" src="<?= base_url('assets/img/upload.png') ?>" alt="Card image cap">
-
-			<div class="card-body" style="">
-				<div id="chart" style="margin-left: -100px; position:relative; margin-bottom:-150px; display: inline-block; ">
-				</div>
-				<div class="" style="display: inline-block; border-left: 1px solid; padding-left: 50px;">
-					<div class="d-flex justify-content-start">
-						<h5>Praktikum saat ini:</h5>
-					</div>
-					<div class="d-flex justify-content-start">Pemodelan Basis Data - Modul 3</div>
-					<div class="d-flex justify-content-start">
-						<h5>Asisten Praktikum:</h5>
-					</div>
-					<div class="d-flex justify-content-start">Ivan Naufal (ZKY)</div>
-				</div>
-			</div>
 		</div>
 	</div>
 </div>
