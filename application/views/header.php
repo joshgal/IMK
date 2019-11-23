@@ -39,7 +39,6 @@
 </script>
 
 <body>
-<<<<<<< HEAD
 	<nav class="navbar navbar-expand-sm navbar-light fixed-top" style="background-color: #ffffff">
 		<!-- Links -->
 		<ul class="navbar-nav ml-auto">
@@ -59,25 +58,4 @@
 				<a class="nav-link" href="#">Logout</a>
 			</li>
 		</ul>
-=======
-	<nav class="navbar navbar-expand-sm navbar-light fixed-top atas" style="background-color: #ffffff">
-	<!-- Links -->
-	  <ul class="navbar-nav ml-auto">
-	    <li class="nav-item">
-	      <a class="nav-link" href="#mulai">Mulai Praktikum</a>
-	    </li>
-	    <li class="nav-item">
-	      <a class="nav-link" href="#nilai">Nilai Praktikum</a>
-	    </li>
-	    <li class="nav-item">
-	      <a class="nav-link" href="#upload">Upload Jawaban</a>
-	    </li>
-	    <li class="nav-item">
-	      <a class="nav-link" href="<?= base_url('index.php/praktikanController/halamanProfile')?>">Akun</a>
-	    </li>
-	    <li class="nav-item">
-	      <a class="nav-link" href="#">Logout</a>
-	    </li>
-	  </ul>
->>>>>>> 7c1fb93df16077d117287918244588eebfb662da
 	</nav>
