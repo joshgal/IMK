@@ -2,9 +2,11 @@
 <html>
 <head>
 	<title>IMPULSE</title>
+	<link href="assets/img/iflab.gif" rel="shortcut icon" />
 	<link rel="stylesheet" href="<?= base_url('assets/css/bootstrap-4.2.1.css')?>"/>
 	<link rel="stylesheet" href="<?= base_url('assets/css/style.css')?>"/>
 	<script type="text/javascript" src="<?= base_url('assets/js/bootstrap.min.js')?>"></script>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
 	<script src="<?= base_url('assets/js/jquery-3.3.1.min.js')?>"></script>
 </head>
 <script>
