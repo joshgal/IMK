@@ -52,13 +52,13 @@
 
 <div class="belowWelcome">
 	<div id="nilai" style="margin-top: 50px; ">
-		<h2 id="nPrak" style="display: inline;">Nilai Praktikum</h2>
+		<a id="nPrak">Nilai Praktikum</a>
 <i id="show" onclick="viewNilai()" class="fa fa-eye"></i> show
 
 
-		<div class="card"id="divChart" style="margin-top:20px;">
-			<div class="card-body center"style=" ">
-				<canvas id="myChart" style="width: 85%;height: 380px;"></canvas>
+		<div class="card"id="divChart">
+			<div class="card-body"style="width: 700px;height: 400px">
+				<canvas id="myChart" style=""></canvas>
 			</div>
 
 
@@ -66,7 +66,7 @@
 		<hr>
 		<form action="">
 			<h2 id="upload">Upload Jawaban</h2>
-			<div class="card" style="margin-bottom: 50px;margin-top:20px;">
+			<div class="card" style="margin-bottom: 50px;">
 
 
 				<div class="card-body" style="margin-top: 40px; margin-bottom:-20px">
