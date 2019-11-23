@@ -5,12 +5,12 @@
 			<tr>
 				<td>
 					<div class="d-flex justify-content-start">
-						<h3 style="font-family: Arial Rounded MT Bold; font-style: normal; font-weight: bold; font-size: 28px; line-height: 56px; align-items: center; color: #000000;">Tes Awal</h3>
+						<h3 style="font-family: Arial Rounded MT Bold; font-style: normal; font-weight: bold; font-size: 28px; line-height: 56px; align-items: center; color: #000000;">Tes Akhir</h3>
 					</div>
 				</td>
 				<td>
 					<div class="d-flex justify-content-end">
-						<p style="font-family: Arial Rounded MT Bold; font-style: normal; font-weight: 400; font-size: 24px; line-height: 56px; align-items: center; color: #000000;">00 : 09 : 45
+						<p style="font-family: Arial Rounded MT Bold; font-style: normal; font-weight: 400; font-size: 24px; line-height: 56px; align-items: center; color: #000000;">00 : 08 : 59
 					</div>
 				</td>
 			</tr>
@@ -27,7 +27,7 @@
 				<p style="font-family:Roboto; font-size: 24px; line-height: 51px;font-weight: 600;"><span style="color: #192E79;">1</span>/1</p>
 				<a href="#" style="width: 50px; height: 50px;background: #DCDCDC; border-radius: 8px;margin-left: 10px; text-decoration: none"><span style="font-family: Roboto; font-weight: bold;font-size: 30px;padding-left: 17px; color: #676767"><</span></a>
 				<a href="#" style="width: 50px; height: 50px;background: #FFD600; border-radius: 8px;margin-left: 10px;text-decoration: none"><span style="font-family: Roboto; font-weight: bold;font-size: 30px;padding-left: 17px; color: #1A3481">></span></a>
-				<a href="<?= base_url('index.php/praktikanController/halamanJurnal2') ?>" style="width: 130px; height: 50px;background: #30E04C; border-radius: 8px;margin-left: 10px; padding-top: 12px;text-decoration: none"><span style="font-family: Roboto; font-weight: 500;font-size: 18px;padding-left: 35px;  color: #FFF">Selesai</span></a>
+				<a href="<?= base_url('index.php/praktikanController/index') ?>" style="width: 130px; height: 50px;background: #30E04C; border-radius: 8px;margin-left: 10px; padding-top: 12px;text-decoration: none"><span style="font-family: Roboto; font-weight: 500;font-size: 18px;padding-left: 35px;  color: #FFF">Selesai</span></a>
 			</div>
 		</div>
 	</div>

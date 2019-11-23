@@ -1,6 +1,8 @@
 <?php $this->load->view('headerNext')?>
-	<div style="margin-top: 70px">
-		<form>
+	<div style="margin-top: 100px; margin-left: 150px;margin-right: 150px">
+		<h2 style="font-family: Roboto; font-style: normal; font-weight: bold; font-size: 32px; line-height: 20px; color: #000000; margin-bottom: 30px">Halaman Edit Profil</h2>
+
+		<form action="<?= base_url('index.php/praktikanController/index')?>">
 			<div class="form-group row">
 			    <label class="col-sm-2 col-form-label">NIM</label>
 			    <div class="col-sm-10">
@@ -77,7 +79,7 @@
 			  </div>
 			</div>
 
-			<button type="submit">Ubah Profile</button>
+			<button type="submit" class="btnEditProfil ml-auto">Simpan</button>
 		</form>
 	</div>
 </body>
