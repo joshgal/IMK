@@ -3,7 +3,7 @@
 
 <head>
 	<title>IMPULSE</title>
-	<link href="assets/img/iflab.gif" rel="shortcut icon" />
+	<link href="<?= base_url('assets/img/iflabwhite.gif') ?>" rel="shortcut icon" />
 	<link rel="stylesheet" href="<?= base_url('assets/css/bootstrap-4.2.1.css') ?>" />
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="<?= base_url('assets/css/style.css') ?>" />
