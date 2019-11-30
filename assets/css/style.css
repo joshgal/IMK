@@ -259,3 +259,66 @@ font-weight: normal; color: #333;}
   text-align: left;
 }
 /* END CHART */
+
+/* Login Section */
+.body{
+    margin: 0px;
+    padding: 0px;
+    display: inline-flex;
+}
+.boundary{
+    position: relative;
+}
+.top-left{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.intro{
+    top: 120px;
+    font-size: 36px;
+    width: 400px;
+    font-weight: bold;
+    color: #fff;
+    margin-left: 16px;
+}
+.logo-white{
+    top: 24px;
+    margin-left: 16px;
+}
+.login{
+    display: flex;
+  align-items: center;
+    flex: 1;
+}
+.txt-login{
+    font-size: 32px;
+    font-weight: bold;
+    margin: 16px;
+}
+.login form{
+    margin: 0 auto;
+    position: relative;
+    bottom: 20px;
+}
+.login form input[type="email"], .login form input[type="password"], .login form input[type="text"] {
+    width: 600px;
+    height: 50px;
+    margin-top: 16px;
+    padding-left: 8px;
+}
+.login form input[type="submit"]{
+    width: 600px;
+    height: 50px;
+    margin: 16px;
+    border: none;
+    background-image: linear-gradient(to right, #02C39A, #00A896);
+    color: #fff;
+    font-size: 24px;
+}
+.email, .password{
+    margin: 16px;
+}
+.profil{
+    
+}

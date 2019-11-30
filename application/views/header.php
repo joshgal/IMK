@@ -55,7 +55,7 @@
 				<a class="nav-link" href="<?= base_url('index.php/praktikanController/halamanProfile') ?>">Akun</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="#">Logout</a>
+				<a class="nav-link" href="<?= base_url('index.php/praktikanController/halamanLogin') ?>">Logout</a>
 			</li>
 		</ul>
 	</nav>
