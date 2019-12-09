@@ -36,8 +36,8 @@ var options = {
         gradient: {
             shade: 'dark',
             type: 'horizontal',
-            shadeIntensity: 0.5,
-            gradientToColors: ['#ABE5A1'],
+            shadeIntensity: 0.7,
+            gradientToColors: ['#030B68'],
             inverseColors: true,
             opacityFrom: 1,
             opacityTo: 1,
@@ -48,10 +48,3 @@ var options = {
     labels: ['Average Results'],
 
 }
-
-var chart = new ApexCharts(
-    document.querySelector("#chart"),
-    options
-);
-
-chart.render();
